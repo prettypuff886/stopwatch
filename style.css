@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    width: 600px;
+    color: rgb(255, 34, 152);
+    text-align: center;
+    padding-top: 5rem;
+}
+
+div.main *{
+    padding: 2% 0;
+}
+
+h1{
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+
+button {
+    border: none;
+    background-color: rgb(255, 34, 152);
+    color: white;
+    padding: 3rem;
+    width: 6rem;
+    
+}
+
+.b-one{
+    margin-bottom: 1rem;
+    padding: 3%
+}
+
+.b-two{
+    padding: 3%;
+    margin-bottom: 1rem;
+}
+
+.b-three{
+    padding: 3%;
+}
+
+.time{
+    margin: 7% 0;
+    font-size: 3rem;
+}
